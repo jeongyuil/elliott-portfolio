@@ -92,6 +92,13 @@
         "link": "https://mungme.shop/"
       },
       {
+        "title": "Mission Lab",
+        "desc": "분석가는 쿼리를 따로따로 배우지만, 실무에서 필요한 건 근거를 갖춘 판단입니다. 하나의 구독 서비스 데이터셋 위에서 앞 미션의 결론이 다음 미션으로 이어지는 9개 미션의 실무 데이터 분석 과정을 직접 만들었습니다 — SQL, Python(scikit-learn), dbt, 시맨틱 모델링으로 기초부터 실험 설계, 지표 표준화까지.",
+        "status": "배포 완료",
+        "tags": ["SQL", "Python", "dbt", "교육"],
+        "link": "https://mission-lab-iota.vercel.app/"
+      },
+      {
         "title": "MyVoice",
         "desc": "아이들에게 필요한 건 더 많은 스크린이 아닌 대화 연습입니다. AI 캐릭터와 실시간으로 대화하는 보이스 앱 — Whisper STT→GPT→TTS 파이프라인, 캐릭터 음성, 3-Phase 학습 플로우, 학부모 분석 대시보드.",
         "status": "개발 중",
@@ -143,7 +150,7 @@
         "degree": "경영학 석사",
         "field": "경영학",
         "school": "중앙대학교",
-        "period": "2014 — 2016",
+        "period": "2014 — 2015",
         "desc": "정량적 전문성에 전략적 비즈니스 사고를 결합. 데이터 기반 의사결정에 적용 가능한 경영 프레임워크를 학습."
       },
       {

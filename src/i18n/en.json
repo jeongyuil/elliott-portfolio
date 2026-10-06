@@ -92,6 +92,13 @@
         "link": "https://mungme.shop/"
       },
       {
+        "title": "Mission Lab",
+        "desc": "Analysts learn queries in isolation, but the job is making evidence-based calls. I built a hands-on data analysis course of nine connected missions on a single subscription-business dataset, where each conclusion feeds the next — SQL, Python (scikit-learn), dbt, and semantic modeling, from fundamentals to experiment design and metric standardization.",
+        "status": "Deployed",
+        "tags": ["SQL", "Python", "dbt", "Education"],
+        "link": "https://mission-lab-iota.vercel.app/"
+      },
+      {
         "title": "MyVoice",
         "desc": "Kids need conversation practice, not more screen time. I'm building a voice AI app where children talk with AI characters in real-time — Whisper STT→GPT→TTS pipeline, character voices, 3-phase learning flow, and parent analytics dashboard.",
         "status": "In Development",
@@ -143,7 +150,7 @@
         "degree": "Master's Degree",
         "field": "Business Management",
         "school": "Chung-Ang University",
-        "period": "2014 — 2016",
+        "period": "2014 — 2015",
         "desc": "Bridged quantitative expertise with strategic business thinking. Studied advanced management frameworks applicable to data-driven decision-making."
       },
       {
